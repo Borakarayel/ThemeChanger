@@ -15,7 +15,10 @@ export default function Card() {
       </a>
       <div className="px-5 py-5">
         <a href="/">
-          <h4 className="text-xl font-serif text-gray-800 dark:text-white">
+          <h4
+            className="text-xl font-serif text-gray-800 dark:text-white font-semibold
+           "
+          >
             Banana
           </h4>
         </a>
